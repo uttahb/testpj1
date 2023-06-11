@@ -1,0 +1,22 @@
+{
+  "type": "function",
+  "source": {
+    "https": "",
+    "ssh": "",
+    "branch": "block_testpj1_removeTodo"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "npm run build",
+  "postPull": "npm i",
+  "name": "testpj1_removeTodo",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "blockId": "sbERTQrD5Q95vD0wHrJA6",
+  "isPublic": true,
+  "repoType": "mono",
+  "parentBlockIDs": [
+    "d80HyPdG2B4j2k8IgxpIi"
+  ]
+}
