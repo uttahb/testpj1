@@ -3,8 +3,8 @@
   "name": "testp4_func1",
   "type": "function",
   "source": {
-    "https": "https://github.com/Athuln/testp4.git",
-    "ssh": "git@github.com:Athuln/testp4.git",
+    "https": "https://github.com/uttahb/testpj1.git",
+    "ssh": "git@github.com:uttahb/testpj1.git",
     "branch": "block_testp4_func1"
   },
   "parentBlockIDs": [

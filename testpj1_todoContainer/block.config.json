@@ -2,8 +2,8 @@
   "name": "testpj1_todoContainer",
   "type": "ui-container",
   "source": {
-    "https": "",
-    "ssh": "",
+    "https": "https://github.com/uttahb/testpj1.git",
+    "ssh": "git@github.com:uttahb/testpj1.git",
     "branch": "block_testpj1_todoContainer"
   },
   "language": "js",
